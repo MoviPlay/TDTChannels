@@ -149,6 +149,14 @@
 | Kings League | [stream](https://player.twitch.tv/?channel=kingsleague&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCtwslQPB_xJfaFuZv0OETNw/live) | [web](https://www.twitch.tv/kingsleague) | [logo](https://graph.facebook.com/kingsleague.pro/picture?width=200&height=200) | - | EMB |
 | Gerard Romero | [stream](https://player.twitch.tv/?channel=gerardromero&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@gerardromero1700) | [web](https://www.twitch.tv/gerardromero) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWYz4vMGrfae-n-0qgGieuUNdwgDypMKpxoCCCfoA=s200) | - | EMB |
 
+## MoviPlay
+
+### España
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
+| Discovery Channel | [Directo](https://vavoo.to/play/1864712382/index.m3u8) | [web](https://discoverychannel.es/) | [logo](https://static.wikia.nocookie.net/telepedia-es/images/8/81/Discovery_channel.png/revision/latest?cb=20210825190420&path-prefix=es) | DiscoveryChannel.TV | - |
+
 ## Autonómicos
 
 ### Andalucía
